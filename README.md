@@ -1,2 +1,2 @@
 # LLM-reviewtransformation
-Analysis of transformation of rabusive reviews by large language models using sentiment and semantic analyses
+Analysis of transformation of abusive reviews by large language models:GPT vs Gemini 
