@@ -1,1 +1,32 @@
+!pip install gensim
 
+!pip install afinn
+from afinn import Afinn
+
+import os
+import time
+import missingno as msno
+import pandas as pd
+# import geopandas as gpd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+import nltk, re, string, collections, unicodedata
+import tensorflow as tf
+
+
+%matplotlib inline
+from matplotlib import cm, dates
+from matplotlib.ticker import ScalarFormatter
+from matplotlib.ticker import FuncFormatter
+from datetime import datetime, timedelta
+from textblob import TextBlob
+from wordcloud import WordCloud, STOPWORDS
+# from langdetect import detect
+from nltk.util import ngrams
+from nltk.tokenize import word_tokenize
+from nltk.classify import NaiveBayesClassifier
+from nltk.corpus import subjectivity
+from nltk.sentiment import SentimentAnalyzer
+from nltk.sentiment.util import *
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
