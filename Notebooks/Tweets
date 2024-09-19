@@ -1,0 +1,9 @@
+import pandas as pd
+
+# Load the dataset (make sure to provide the correct path)
+data_path = '/path_to_your_dataset/filename.csv'  # Replace with your dataset path
+df = pd.read_csv(data_path)
+
+# View the dataset's first few rows
+print(df.head())
+```
