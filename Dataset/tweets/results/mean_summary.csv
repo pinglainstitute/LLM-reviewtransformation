@@ -1,4 +1,4 @@
-batch,groq_success,gemini_success
+batch,Groq,Gemini
 1,100,100
 2,100,95
 3,100,100
@@ -19,8 +19,3 @@ batch,groq_success,gemini_success
 18,85,85
 19,100,100
 20,100,100
-21,100,100
-22,100,100
-23,100,100
-24,100,100
-25,100,100

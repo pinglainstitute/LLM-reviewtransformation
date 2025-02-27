@@ -1,51 +1,51 @@
 category,bigram,count,censored
-0,sharia law,65,sharia law
-0,profit muhammad,9,profit muhammad
-0,muhammad pbuh,8,muhammad pbuh
-0,left want,6,left want
-0,sex slave,5,s*x slave
-0,show islam,4,show islam
-0,please dont,4,please dont
-0,dont retweet,4,dont retweet
-0,year old,4,year old
-0,tool oppression,4,tool oppression
-1,link bio,49,link bio
-1,bio anal,28,bio @n@l
-1,come watch,16,come watch
-1,signup link,13,signup link
-1,sadiq khan,12,sadiq khan
-1,look like,12,look like
-1,follow link,12,follow link
-1,free signup,11,free signup
-1,free link,11,free link
-1,live girl,11,live girl
-2,muslim mayor,4,muslim mayor
-2,horrible little,4,horrible little
-2,little muslim,4,little muslim
-2,look like,4,look like
-2,monkey see,4,monkey see
-2,see monkey,4,see monkey
-2,3rd world,3,3rd world
-2,like nigga,3,like n*gga
-2,as nigga,3,as n*gga
-2,nigga really,3,n*gga really
-3,new mexico,14,new mexico
-3,muslim migrant,11,muslim migrant
-3,kill kill,10,kill kill
-3,linda sarsour,9,linda sarsour
-3,sharia law,9,sharia law
-3,muslim brotherhood,9,muslim brotherhood
-3,acid attack,8,acid attack
-3,mexico compound,8,mexico compound
-3,illegal alien,8,illegal alien
-3,civil war,7,civil war
-4,theresa may,16,theresa may
-4,jacob reesmogg,8,jacob reesmogg
-4,single market,8,single market
-4,british people,6,british people
-4,prime minister,6,prime minister
-4,president trump,6,president trump
-4,sadiq khan,6,sadiq khan
-4,peter strzok,6,peter strzok
-4,leave eu,5,leave eu
-4,year old,4,year old
+Disciminatory,new mexico,14,new mexico
+Disciminatory,muslim migrant,11,muslim migrant
+Disciminatory,kill kill,10,kill kill
+Disciminatory,linda sarsour,9,linda sarsour
+Disciminatory,sharia law,9,sharia law
+Disciminatory,muslim brotherhood,9,muslim brotherhood
+Disciminatory,acid attack,8,acid attack
+Disciminatory,mexico compound,8,mexico compound
+Disciminatory,illegal alien,8,illegal alien
+Disciminatory,civil war,7,civil war
+NSFW,link bio,49,link bio
+NSFW,bio anal,28,bio @n@l
+NSFW,come watch,16,come watch
+NSFW,signup link,13,signup link
+NSFW,sadiq khan,12,sadiq khan
+NSFW,look like,12,look like
+NSFW,follow link,12,follow link
+NSFW,free signup,11,free signup
+NSFW,free link,11,free link
+NSFW,live girl,11,live girl
+No Abuse,theresa may,16,theresa may
+No Abuse,jacob reesmogg,8,jacob reesmogg
+No Abuse,single market,8,single market
+No Abuse,british people,6,british people
+No Abuse,prime minister,6,prime minister
+No Abuse,president trump,6,president trump
+No Abuse,sadiq khan,6,sadiq khan
+No Abuse,peter strzok,6,peter strzok
+No Abuse,leave eu,5,leave eu
+No Abuse,year old,4,year old
+Racism,muslim mayor,4,muslim mayor
+Racism,horrible little,4,horrible little
+Racism,little muslim,4,little muslim
+Racism,look like,4,look like
+Racism,monkey see,4,monkey see
+Racism,see monkey,4,see monkey
+Racism,3rd world,3,3rd world
+Racism,like nigga,3,like n*gga
+Racism,as nigga,3,as n*gga
+Racism,nigga really,3,n*gga really
+Religion,sharia law,65,sharia law
+Religion,profit muhammad,9,profit muhammad
+Religion,muhammad pbuh,8,muhammad pbuh
+Religion,left want,6,left want
+Religion,sex slave,5,s*x slave
+Religion,show islam,4,show islam
+Religion,please dont,4,please dont
+Religion,dont retweet,4,dont retweet
+Religion,year old,4,year old
+Religion,tool oppression,4,tool oppression
