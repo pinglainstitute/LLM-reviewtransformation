@@ -1,6 +1,6 @@
-Annoyed,Joking,Optimistic,Official report,Anxious,Sad,Denial,Thankful
-259,165,33,30,9,10,6,0
-145,55,190,36,5,8,5,1
-163,59,118,73,15,18,6,1
-163,72,111,65,5,15,10,1
-164,58,133,54,6,13,15,0
+Model,Annoyed,Joking,Optimistic,Official report,Anxious,Sad,Denial,Thankful
+cleaned_transform,259,165,33,30,9,10,6,0
+transformed_tweets_groq,145,55,190,36,5,8,5,1
+transformed_tweets_gemini,163,59,118,73,15,18,6,1
+transformed_tweets_gpt,163,72,111,65,5,15,10,1
+transformed_tweets_deepseek,164,58,133,54,6,13,15,0
